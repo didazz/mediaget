@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.didazz.descargasocial.tests">
+<uses-sdk android:minSdkVersion="33" android:targetSdkVersion="35"/>
+<application android:label="MediaGet validation"/>
+<instrumentation android:name=".NativeChecks" android:targetPackage="com.didazz.descargasocial"/>
+</manifest>

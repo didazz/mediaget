@@ -1,0 +1,14 @@
+[
+  "InstagramExtractor",
+  "FacebookExtractor",
+  "GenericExtractor",
+  "GenericWebExtractor",
+  "GenericHlsDownloader",
+  "YoutubeHttp",
+  "YoutubeTransfer",
+  "YoutubeRange",
+  "MediaItem",
+  "PublicWebUrlPolicy",
+  "MediaValidator",
+  "SocialExtractor"
+]

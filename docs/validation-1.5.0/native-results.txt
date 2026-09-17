@@ -1,0 +1,10 @@
+Native Android resource checks passed: 1500
+java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.didazz.descargasocial.tests.NativeChecks.nativeMux(NativeChecks.java:34)
+	at com.didazz.descargasocial.tests.NativeChecks.onStart(NativeChecks.java:60)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2594)
+Caused by: com.didazz.descargasocial.YoutubeException: error_315
+	at com.didazz.descargasocial.YoutubeDownload.mux(YoutubeDownload.java:94)
+	... 4 more
+

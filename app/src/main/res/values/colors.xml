@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#07090E</color>
+    <color name="accent_pink">#FF3F86</color>
+    <color name="launcher_background">#FF4778</color>
+    <color name="navigation_bar">#05070B</color>
+</resources>

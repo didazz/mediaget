@@ -1,0 +1,27 @@
+----------
+1. WARNING in /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/app/src/main/java/com/didazz/descargasocial/GenericHlsDownloader.java (at line 1203)
+	private static String firstNonBlank(String first, String second) {
+	                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The method firstNonBlank(String, String) from the type GenericHlsDownloader is never used locally
+----------
+2. WARNING in /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/app/src/main/java/com/didazz/descargasocial/GenericHlsDownloader.java (at line 1461)
+	final double duration;
+	             ^^^^^^^^
+The value of the field GenericHlsDownloader.Segment.duration is not used
+----------
+2 problems (2 warnings)
+SocialLinkParserTest: 16 PASS
+FacebookExtractorParserTest: 27 PASS
+GenericExtractorParserTest: 25 PASS
+XhamsterUrlDecoderTest: 13 PASS
+GenericWebExtractorPolicyTest: 27 PASS
+GenericHlsDownloaderTest: 62 PASS
+MediaValidatorTest: 17 PASS
+DownloadRuntimeTest: 41 checks passed
+DownloadQueueTest: 21 comprobaciones
+CompactLayoutTest: 54 escenarios de tamaño y texto
+YoutubeModuleTest: 76 comprobaciones
+DownloadDiagnosticsTest: 13 comprobaciones
+LocalizationTest: 911 host XML/message checks (not Android UI execution)
+DownloadStorageConcurrencyTest: 99 comprobaciones
+YoutubeMuxContractTest: 51 comprobaciones (API nativa simulada; no valida códecs en Android)

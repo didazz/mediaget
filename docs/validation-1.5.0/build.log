@@ -1,0 +1,38 @@
+----------
+1. WARNING in /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/app/src/main/java/com/didazz/descargasocial/GenericHlsDownloader.java (at line 1203)
+	private static String firstNonBlank(String first, String second) {
+	                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The method firstNonBlank(String, String) from the type GenericHlsDownloader is never used locally
+----------
+2. WARNING in /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/app/src/main/java/com/didazz/descargasocial/GenericHlsDownloader.java (at line 1461)
+	final double duration;
+	             ^^^^^^^^
+The value of the field GenericHlsDownloader.Segment.duration is not used
+----------
+2 problems (2 warnings)
+Warning in /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/vendor/runtime/rhino.jar:org/mozilla/javascript/optimizer/ConstAwareLinker.class:
+Type `jdk.dynalink.linker.TypeBasedGuardingDynamicLinker` was not found, it is required for default or static interface methods desugaring of `org.mozilla.javascript.optimizer.ConstAwareLinker`
+Warning in /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/vendor/runtime/rhino.jar:org/mozilla/javascript/optimizer/RhinoOperation.class:
+Type `jdk.dynalink.Operation` was not found, it is required for default or static interface methods desugaring of `org.mozilla.javascript.optimizer.RhinoOperation`
+Warning in /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/vendor/runtime/rhino.jar:org/mozilla/javascript/optimizer/DefaultLinker.class:
+Type `jdk.dynalink.linker.GuardingDynamicLinker` was not found, it is required for default or static interface methods desugaring of `org.mozilla.javascript.optimizer.DefaultLinker`
+Warning in /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/vendor/runtime/rhino.jar:org/mozilla/javascript/optimizer/RhinoNamespace.class:
+Type `jdk.dynalink.Namespace` was not found, it is required for default or static interface methods desugaring of `org.mozilla.javascript.optimizer.RhinoNamespace`
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=Descarga Social, O=Didazz, C=ES
+Signer #1 certificate SHA-256 digest: 3ff963c0fd75fe122b43e61bf0765e623b720d0e580a80cfb7f4417ff10f9936
+Signer #1 certificate SHA-1 digest: 050781288978c932ea6dfd667981f88a818f0682
+Signer #1 certificate MD5 digest: 13e61231fe00acf62bbcfcae862d0e4f
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 32f0a7185e01333f5062d4ce8b6dc66c0560ea1d32fd6644f8e67dc392585647
+Signer #1 public key SHA-1 digest: d5520be60ba7f075e458ee5dab7eaaab79a05098
+Signer #1 public key MD5 digest: 774980e7af344d94198a43c97980cc98
+APK creada: /workspace/scratch/e53d828d8e09/mediaget-work/DescargaSocialAndroid/dist/MediaGet-1.5.0.apk

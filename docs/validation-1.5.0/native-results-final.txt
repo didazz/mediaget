@@ -1,0 +1,6 @@
+Native Android resource checks passed: 1502
+Fixture video.mp4 first Android PTS=0
+Fixture audio.m4a first Android PTS=0
+Production mux passed on real Android APIs with generated AVC/AAC fixtures.
+PASS 1556 native resource/lifecycle checks. No live download validation.
+

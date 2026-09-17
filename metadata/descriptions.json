@@ -1,0 +1,22 @@
+{
+  "name": "MediaGet",
+  "version": "1.5.0",
+  "versionCode": 9,
+  "applicationId": "com.didazz.descargasocial",
+  "minSdk": 24,
+  "targetSdk": 35,
+  "languages": [
+    "es",
+    "en"
+  ],
+  "descriptions": {
+    "es": {
+      "short": "Descargador universal de vídeos e imágenes.",
+      "full": "MediaGet es un descargador universal de vídeos e imágenes que permite guardar contenido multimedia desde diferentes fuentes de Internet de forma sencilla.\n\nActualmente es compatible con Instagram, Facebook, YouTube y páginas web genéricas, permitiendo detectar y descargar vídeos e imágenes disponibles desde una única aplicación.\n\nMediaGet está diseñada para ofrecer una interfaz sencilla, rápida y cómoda, centralizando las diferentes opciones de descarga sin necesidad de utilizar una aplicación distinta para cada plataforma."
+    },
+    "en": {
+      "short": "Universal video and image downloader.",
+      "full": "MediaGet is a universal video and image downloader that lets you easily save media content from different Internet sources.\n\nIt currently supports Instagram, Facebook, YouTube and generic websites, allowing available videos and images to be detected and downloaded from a single application.\n\nMediaGet is designed to provide a simple, fast and convenient interface, bringing different download options together without requiring a separate application for each platform."
+    }
+  }
+}
