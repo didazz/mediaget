@@ -1,0 +1,38 @@
+{
+  "version": "1.5.0",
+  "version_code": 9,
+  "app_name": "MediaGet",
+  "package": "com.didazz.descargasocial",
+  "date": "2026-09-11",
+  "status": "build_and_targeted_android_tests_passed_live_download_validation_pending",
+  "apk_sha256": "68a1750bac94212b8e210c2cbda7eac9830c89c19edc01baaee7869ead64de06",
+  "apk_bytes": 2420084,
+  "signer_sha256": "3ff963c0fd75fe122b43e61bf0765e623b720d0e580a80cfb7f4417ff10f9936",
+  "min_sdk": 24,
+  "target_sdk": 35,
+  "resources_per_language": 248,
+  "local_regression_checks": 549,
+  "host_localization_checks": 911,
+  "native_checks_final": 1556,
+  "native_first_fixture": "FAILED: error_315 with initial synthetic AAC; negative first PTS reported by ffprobe",
+  "native_supported_fixture": "PASS: production MediaExtractor/MediaMuxer; AVC + AAC; Android first PTS 0 for both",
+  "live_downloads_tested": false,
+  "live_download_during_locale_change_tested": false,
+  "visual_device_sizes": [
+    [
+      360,
+      800
+    ],
+    [
+      320,
+      568
+    ]
+  ],
+  "font_scale_small_screen": 1.3,
+  "limitations": [
+    "System UI ANR in unaccelerated emulator; invalid screenshots excluded",
+    "Global device-language ES visual path incomplete",
+    "No physical device testing",
+    "No claim of full stable-release validation"
+  ]
+}

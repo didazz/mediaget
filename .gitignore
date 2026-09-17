@@ -1,0 +1,24 @@
+# Firma privada y configuración local
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+key.properties
+keystore.properties
+local.properties
+
+# Compilación y cachés
+dist/
+.build.*/
+.gradle/
+.idea/
+*.apk
+*.aab
+*.idsig
+__pycache__/
+*.pyc
+.DS_Store
